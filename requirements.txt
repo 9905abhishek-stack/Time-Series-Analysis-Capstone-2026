@@ -14,3 +14,4 @@ dash>=2.14
 dash-bootstrap-components>=1.5
 jupyter
 nbformat
+gunicorn

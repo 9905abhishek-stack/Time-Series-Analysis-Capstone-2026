@@ -114,6 +114,7 @@ app = dash.Dash(
     title='TSA 2026 — Capstone Dashboard',
     suppress_callback_exceptions=True,
 )
+server = app.server
 
 # ──────────────────────────────────────────────────────────────
 # Navigation
